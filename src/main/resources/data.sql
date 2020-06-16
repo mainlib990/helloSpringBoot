@@ -1,0 +1,10 @@
+insert into productTable(name, category, price, manufacturer, unit_in_stock, description) values("노트북1", "컴퓨터", "10", "삼성전자", "10", "최신형");
+insert into productTable(name, category, price, manufacturer, unit_in_stock, description) values("노트북2", "컴퓨터", "11", "삼성전자", "10", "최신형");
+insert into productTable(name, category, price, manufacturer, unit_in_stock, description) values("노트북3", "컴퓨터", "12", "삼성전자", "10", "최신형");
+insert into productTable(name, category, price, manufacturer, unit_in_stock, description) values("노트북4", "컴퓨터", "13", "삼성전자", "10", "최신형");
+insert into productTable(name, category, price, manufacturer, unit_in_stock, description) values("노트북5", "컴퓨터", "14", "삼성전자", "10", "최신형");
+insert into productTable(name, category, price, manufacturer, unit_in_stock, description) values("노트북6", "컴퓨터", "15", "삼성전자", "10", "최신형");
+insert into productTable(name, category, price, manufacturer, unit_in_stock, description) values("노트북7", "컴퓨터", "16", "삼성전자", "10", "최신형");
+insert into productTable(name, category, price, manufacturer, unit_in_stock, description) values("노트북8", "컴퓨터", "17", "삼성전자", "10", "최신형");
+insert into productTable(name, category, price, manufacturer, unit_in_stock, description) values("노트북9", "컴퓨터", "18", "삼성전자", "10", "최신형");
+insert into productTable(name, category, price, manufacturer, unit_in_stock, description) values("노트북10", "컴퓨터", "19", "삼성전자", "10", "최신형");
